@@ -1,24 +1,39 @@
-# gerenciador-de-tarefas
+# Gerenciador de Tarefas
 
-## Project setup
-```
-npm install
-```
+---
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![tarefas01.png](src/assets/tarefas01.png)
+![tarefas02.png](src/assets/tarefas02.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Projeto desenvolvido com as seguintes tecnologias:
 
-### Lints and fixes files
-```
-npm run lint
-```
+- BootstrapVue
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[Documentação BootstrapVue](https://bootstrap-vue.org/)
+
+- Axios
+
+[Documentação Axios](https://axios-http.com/docs/intro)
+
+## Dependências utilizadas
+
+- Axios
+- Bootstrap-vue
+- core-js
+- Vue
+
+## Clonando projeto
+
+[`https://github.com/erikasantanaa/Gerenciador-de-Tarefas.git`](https://github.com/erikasantanaa/Gerenciador-de-Tarefas.git)
+
+## Instalando as depencências
+
+`npm install`
+
+## Como rodar o projeto
+
+`npm run serve`
+
+## Observação:
+
+O projeto ainda não foi concluído!
